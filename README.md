@@ -1,4 +1,4 @@
-# Menghitung-Rumus-BMI
+# Android Studio Java/Kotlin Menghitung-Rumus-BMI
 Android Studio Mobile Programming
 Moduls at ReadMe.
 
